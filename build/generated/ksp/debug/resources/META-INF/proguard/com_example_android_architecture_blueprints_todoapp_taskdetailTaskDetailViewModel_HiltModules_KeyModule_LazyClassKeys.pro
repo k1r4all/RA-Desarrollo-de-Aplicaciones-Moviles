@@ -1,0 +1,6 @@
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel
